@@ -1,4 +1,4 @@
-#Movie Seat Booking App with Vanilla JS
+# Movie Seat Booking App with Vanilla JS
 
 ## Objective
 - Using pure JavaScript, HTML and CSS, display movie choices and seats in a theatre to select from in order to buy tickets
